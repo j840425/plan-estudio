@@ -484,38 +484,6 @@ El sistema alcanzó límites máximos sin lograr calidad ideal.
 2. Ajusta nivel del usuario (`--level`)
 3. Complementa manualmente con búsqueda adicional de libros
 
-## 🚀 Mejoras Futuras
-
-- [ ] **Interfaz web** con Streamlit o Gradio
-- [ ] **Persistencia** de planes en Cloud Firestore o PostgreSQL
-- [ ] **Integración con APIs** de librerías (Goodreads, OpenLibrary)
-- [ ] **Soporte multiidioma** (inglés, español, portugués)
-- [ ] **Exportación a PDF** con formato profesional usando ReportLab
-- [ ] **Sistema de recomendación** basado en historial de planes generados
-- [ ] **Visualización de roadmap** con diagramas de flujo interactivos
-- [ ] **Integración con plataformas** de aprendizaje (Coursera, Udemy)
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Para contribuir:
-
-1. **Fork** el proyecto
-2. Crea una **rama** para tu feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un **Pull Request**
-
-### Guías de Contribución
-
-- Mantén el estilo de código consistente (type hints, docstrings en español)
-- Agrega tests para nuevas funcionalidades
-- Actualiza documentación relevante
-- Sigue las convenciones de commits: `tipo(scope): mensaje`
-  - `feat`: Nueva funcionalidad
-  - `fix`: Corrección de bug
-  - `docs`: Cambios en documentación
-  - `refactor`: Refactorización sin cambios funcionales
-
 ## 📝 Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Ver el archivo [LICENSE](LICENSE) para más detalles.
