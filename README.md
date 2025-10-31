@@ -1,4 +1,4 @@
-# 📚 Sistema Agéntico de Generación de Planes de Estudio
+# 📚 Sistema Workflow Agéntico de Generación de Planes de Estudio
 
 Sistema inteligente que genera **planes de estudio personalizados** utilizando **LangGraph**, **Gemini 2.5 Flash** y **Google Search Grounding** en Google Vertex AI. Construye roadmaps de aprendizaje estructurados con libros recomendados, duraciones estimadas y objetivos específicos mediante un workflow agéntico que toma decisiones autónomas en tiempo real.
 
